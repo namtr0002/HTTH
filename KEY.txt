@@ -1,1 +1,2 @@
-
+# TransformedKey|StartDate|EndDate|Note|OriginalKey|HWID
+MBHQVvZ2x0a3x+EmF+a2EKfGRg==|21:00 11/05/2026|21:00 10/06/2026|Active User|KEY-020021|6418D996
