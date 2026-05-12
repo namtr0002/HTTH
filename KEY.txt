@@ -1,2 +1,2 @@
 # HTTH-V4 Format: EncKey|EncType|EncUID|StartTime|EndTime|Note
-txftipsAgONaq-7x5qFp|MRcHJ_v5I3g|24wKmV6uLSjvx34L|00:00 12/05/2026|23:59 26/05/2026|thử nghiệm công cụ chỉnh sửa data hải tặc tí hon v1
+txftipsAgONaq-7x5qFp|MRcHJ_v5I3g|FSJX|00:00 12/05/2026|23:59 26/05/2026|thử nghiệm công cụ chỉnh sửa data hải tặc tí hon v1
